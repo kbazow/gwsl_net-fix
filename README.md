@@ -1,4 +1,4 @@
-# gwsl_net0fix
+# gwsl_net-fix
 # Network port forwarding script - Fixes "Graphical ssh Connection" ssh and xserver over specified port
 #
 #  Network port forwarding script - GWSL & WSL2 with xserver - Fixes "Graphical ssh Connection" ssh and xserver over specified port
